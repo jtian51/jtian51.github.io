@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Privacy-Preserving Data Stewardship on Multisided Platforms
-description: When users care about privacy, platforms need to find the way out based on data usage under consent. 
+title: Voluntary Partial Disclosure on Digital Platforms
+description: With Meng Li. When users care about privacy, platforms must design disclosure policies that balance data value and user consent.
 img: assets/img/privacy.jpg
 importance: 1
 category: work in progress

@@ -8,6 +8,8 @@ category: working papers
 related_publications: false
 ---
 
+**Status: Submitted to _Management Science_** (with Meng Li & Saunak Kumar Panda)
+
 (Full draft is available <a href="https://drive.google.com/file/d/1UVDtQDdVut3rDfC-NN9zEkXM-YCm99f6/view?usp=share_link">here</a>)
 
 Abstract  

@@ -7,6 +7,8 @@ importance: 2
 category: working papers
 ---
 
+**Status: Revision requested at _Production and Operations Management_** (with Meng Li)
+
 (Full draft is available upon request)
 
 Abstract
