@@ -21,6 +21,32 @@
       }
     ]
   },
+  "interests": [
+    {
+      "name": "Topics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Digital Platforms",
+        "Artificial Intelligence",
+        "Data-Driven Marketing",
+        "Dynamic Pricing in Multi-Sided Markets",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "name": "Methodologies",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Game Theory",
+        "Deep Neural Networks",
+        "Reinforcement Learning",
+        "Information Design",
+        "Optimization",
+        "Dynamic Programming",
+        "Auction Theory"
+      ]
+    }
+  ],
   "work": [
     {
       "name": "Paul and Virginia Engler College of Business, West Texas A&M University",
@@ -73,28 +99,40 @@
     {
       "name": "Algorithmic Bidding in Procurement Auctions",
       "summary": "With Meng Li & Saunak Kumar Panda. Submitted to Management Science. Invited talks at POMS (2024, 2025) and INFORMS Annual Meeting (2024, 2025).",
-      "highlights": ["Reinforcement Learning", "Auction Theory"],
+      "highlights": [
+        "Reinforcement Learning",
+        "Auction Theory"
+      ],
       "startDate": "2023-09-01",
       "endDate": "present"
     },
     {
       "name": "Imitative Entry and Product Loyalty",
       "summary": "With Meng Li. Revision requested at Production and Operations Management.",
-      "highlights": ["Game Theory", "Product Strategy"],
+      "highlights": [
+        "Game Theory",
+        "Product Strategy"
+      ],
       "startDate": "2023-09-01",
       "endDate": "present"
     },
     {
       "name": "Trading off Qualities for Quantities in Matching for Bargaining",
       "summary": "Accepted to Boston University Platform Strategy Research Symposium (Long talk), 2024. To be submitted soon.",
-      "highlights": ["Matching", "Information Design"],
+      "highlights": [
+        "Matching",
+        "Information Design"
+      ],
       "startDate": "2019-01-01",
       "endDate": "present"
     },
     {
       "name": "Forecasting Resale Market Dynamics with Machine Learning: Evidence from StockX",
       "summary": "With Jialiang Yang & Joshua Li. Under review at IEEE Transactions on Engineering Management.",
-      "highlights": ["Machine Learning", "Forecasting"],
+      "highlights": [
+        "Machine Learning",
+        "Forecasting"
+      ],
       "startDate": "2024-01-01",
       "endDate": "present"
     }
@@ -131,42 +169,25 @@
       "summary": "2012-2015"
     }
   ],
-  "research interests": [
-    {
-      "name": "Topics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Digital Platforms",
-        "Artificial Intelligence",
-        "Data-Driven Marketing",
-        "Dynamic Pricing in Multi-Sided Markets",
-        "Cloud Computing"
-      ]
-    },
-    {
-      "name": "Methodologies",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Game Theory",
-        "Deep Neural Networks",
-        "Reinforcement Learning",
-        "Information Design",
-        "Optimization",
-        "Dynamic Programming",
-        "Auction Theory"
-      ]
-    }
-  ],
   "skills": [
     {
       "name": "Programming Languages",
       "icon": "fa-solid fa-code",
-      "keywords": ["Python", "C++", "MATLAB"]
+      "keywords": [
+        "Python",
+        "C++",
+        "MATLAB"
+      ]
     },
     {
       "name": "Data Analysis",
       "icon": "fa-solid fa-chart-column",
-      "keywords": ["R", "STATA", "MySQL", "Power BI"]
+      "keywords": [
+        "R",
+        "STATA",
+        "MySQL",
+        "Power BI"
+      ]
     }
   ],
   "languages": [
